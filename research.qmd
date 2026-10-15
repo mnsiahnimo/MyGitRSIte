@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## Publications
+
+- [TO BE SUPPLIED: Author(s). Year. "Title." *Journal*. DOI link]
+
+## Working papers
+
+- [TO BE SUPPLIED]
+
+## Projects
+
+- [TO BE SUPPLIED: project name, short description, link to code on GitHub]

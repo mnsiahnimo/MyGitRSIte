@@ -1,0 +1,33 @@
+---
+title: "What I use"
+date-modified: last-modified
+---
+
+A running list of the tools I use for statistics, analytics, and writing. I try to keep it up to date.
+
+## Statistical analysis and research
+
+- **R** for statistical modeling and analysis, including survival analysis, causal inference, general and generalized linear models, and linear mixed models.
+- **Python** for [TO BE SUPPLIED: what you use Python for].
+- **SAS** for [TO BE SUPPLIED].
+- [TO BE SUPPLIED: editor, e.g., Positron or RStudio]
+
+## Data analytics
+
+- **SQL** for querying and preparing data.
+- **Tableau** for data visualization and dashboards.
+- **CRM** systems for higher education and research data. [TO BE SUPPLIED: name of CRM, if you want to list it]
+
+## Writing and publishing
+
+- **Quarto** to build this website.
+- **GitHub** to host my code and this site: [github.com/mnsiahnimo](https://github.com/mnsiahnimo).
+- [TO BE SUPPLIED: reference manager, note-taking app]
+
+## Productivity
+
+- [TO BE SUPPLIED]
+
+## Hardware
+
+- [TO BE SUPPLIED]

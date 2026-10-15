@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Michael Nsiah-Nimo"
+  site-url: https://mnsiahnimo.github.io
+  description: "Research statistician and data analytics professional"
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: uses.qmd
+        text: Uses
+    right:
+      - icon: github
+        href: https://github.com/mnsiahnimo
+        aria-label: GitHub
+      - icon: linkedin
+        href: "[TO BE SUPPLIED: LinkedIn URL]"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:[TO BE SUPPLIED: email]"
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Michael Nsiah-Nimo"
+    right: "Made with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true

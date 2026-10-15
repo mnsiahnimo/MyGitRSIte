@@ -1,0 +1,59 @@
+---
+title: "Michael Nsiah-Nimo"
+subtitle: "Research Statistician · Data Analytics Professional"
+toc: false
+# To add a photo: put profile.jpg in this folder and uncomment the next line
+# image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/mnsiahnimo
+    - icon: linkedin
+      text: LinkedIn
+      href: "[TO BE SUPPLIED: LinkedIn URL]"
+    - icon: envelope
+      text: Email
+      href: "mailto:[TO BE SUPPLIED: email]"
+---
+
+I am a research statistician and data analytics professional with seven years of experience turning complex data into evidence that informs research and decision-making. My work sits at the intersection of rigorous statistical methodology and practical analytics, with a particular focus on **health disparities research**.
+
+On the research side, I use **R** and **Python** to build statistical models and analyze biomedical and clinical data. My methodological toolkit includes survival analysis, causal inference, general and generalized linear models, and linear mixed models.
+
+On the analytics side, I work with **SQL**, **Tableau**, and **CRM** systems to prepare, analyze, and visualize higher education and research data, delivering both descriptive and predictive analytics that help institutions understand trends and plan ahead.
+
+I hold an MS in Statistics and am pursuing a PhD in Biostatistics at the University of Nebraska Medical Center.
+
+## Research interests
+
+- Clinical trial methodology
+- Bayesian statistics
+- Causal inference
+- Machine learning integration in biostatistics
+- Health disparities
+
+## Expertise
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Statistical analysis & research
+- R, Python
+- Survival analysis
+- Causal inference
+- General and generalized linear models
+- Linear mixed models
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Data analytics
+- SQL
+- Tableau data visualization
+- Data preparation
+- CRM for higher education and research data
+- Descriptive and predictive analytics
+:::
+
+:::
